@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying in Sun Yat-sen University
-- 🌱 I’m currently learning Compilation principle and vue
+- 🌱 I’m currently learning compilation principle and vue
